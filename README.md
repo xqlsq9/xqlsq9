@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xia
 - 👀 I’m interested in cs and ic 
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning C++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
